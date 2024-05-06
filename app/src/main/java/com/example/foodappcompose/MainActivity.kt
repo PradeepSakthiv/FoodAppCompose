@@ -340,7 +340,7 @@ fun CategoryItem(modifier: Modifier, categoryGrid: CategoryGrid) {
                 )
                 Text(
                     text = categoryGrid.description,
-                    modifier = modifier.padding(start = 6.dp, end = 4.dp, top = 6.dp)
+                    modifier = modifier.padding(start = 4.dp, end = 4.dp, top = 6.dp)
                         .fillMaxWidth(),
                     style = TextStyle(
                         fontSize = 12   .sp,
@@ -413,7 +413,7 @@ fun BottomMenu(
         modifier = modifier
             .fillMaxWidth()
             .background(Color.White)
-            .padding(bottom = 32.dp)
+            .padding(bottom = 16.dp)
     ) {
         items.forEachIndexed { index, item ->
             BottomMenuItem(

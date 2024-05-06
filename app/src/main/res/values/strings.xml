@@ -2,8 +2,7 @@
     <string name="app_name">FoodAppCompose</string>
 
     <string name="home">New home</string>
-    <string name="home_address">"43, Kuvempu Nagara Mysore, Karnataka,43,
-        Kuvempu Nagara Mysore, Karnataka</string>
+    <string name="home_address">"43, Kuvempu Nagara Mysore, Karnataka, Srirampura, Karnataka</string>
     <string name="today_quiz">Today\'s Quiz is Live!</string>
     <string name="answer_win">Answer. Win. Repeat</string>
 
